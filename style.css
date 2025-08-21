@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(186, 186, 192);
+}
+h1{
+    text-align: center;
+}
+img{border-radius: 75%;}
+
+.caixa {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 200px;
+
+}
+a:hover{
+    font-size: 20px;
+    color: red;
+}
